@@ -1,0 +1,3 @@
+#!/home/lijie/data2/sensor_fusion/OpenVINO-optimization-for-PointPillars/pcdet/bin/python3
+from numba.pycc import main
+main()
